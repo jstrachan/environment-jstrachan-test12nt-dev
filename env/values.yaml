@@ -15,7 +15,7 @@ jenkins-x-platform:
       helm.sh/hook: post-install,post-upgrade
       helm.sh/hook-delete-policy: hook-succeeded
     config:
-      domain: 35.187.119.110.nip.io
+      domain: 35.241.139.143.nip.io
       exposer: Ingress
       http: "true"
       pathMode: ""

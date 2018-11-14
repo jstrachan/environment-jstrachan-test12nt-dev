@@ -13,6 +13,6 @@ spec:
   promotionStrategy: Auto
   source:
     ref: master
-    url: https://github.com/jstrachan/environment-jstrachan-test4nt-staging.git
+    url: https://github.com/jstrachan/environment-jstrachan-test12nt-staging.git
   teamSettings: {}
 status: {}

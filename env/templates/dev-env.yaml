@@ -13,7 +13,9 @@ spec:
   previewGitInfo:
     user: {}
   promotionStrategy: Never
-  source: {}
+  source:
+    ref: master
+    url: https://github.com/jstrachan/environment-jstrachan-test12nt-dev.git
   teamSettings:
     buildPackRef: "2.1"
     buildPackUrl: https://github.com/jenkins-x/draft-packs.git
